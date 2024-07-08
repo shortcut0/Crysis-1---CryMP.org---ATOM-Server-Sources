@@ -1,0 +1,13 @@
+IP_DB = {
+	["127.0.0.1"] = {
+		["CountryCode"] = "CV";
+		["Country"] = "Crysisville";
+		["countryName"] = "CV";
+		["continentName"] = "Lingshan Islands";
+		["City"] = "Village";
+		["Conti"] = "Lingshan Islands";
+		["ChannelId"] = 1;
+		["ContiCode"] = "LI";
+		["continentCode"] = "LI";
+	};
+};
